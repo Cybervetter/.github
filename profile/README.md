@@ -26,7 +26,3 @@ Public repositories in this organisation are published for transparency and refe
 ## Sister organisation
 
 [**Cybernating**](https://github.com/Cybernating) — our digital products division.
-
----
-
-CYBERVETTER S.R.L. · Romania
