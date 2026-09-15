@@ -23,6 +23,6 @@ Coverage spans NIS2, DORA, ISO/IEC 27001, the Cyber Resilience Act, GDPR, the AI
 
 Public repositories in this organisation are published for transparency and reference. They are maintained by CYBERVETTER only — external issues, pull requests and comments are not accepted. See each repository's `CONTRIBUTING.md`.
 
-## Sister organisation
+## Also on GitHub
 
 [**Cybernating**](https://github.com/Cybernating) — our digital products division.
