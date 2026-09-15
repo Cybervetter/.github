@@ -19,6 +19,10 @@ Six practices, thirty-three services:
 
 Coverage spans NIS2, DORA, ISO/IEC 27001, the Cyber Resilience Act, GDPR, the AI Act, and PCI DSS.
 
+## Insights
+
+[**insights**](https://github.com/Cybervetter/insights) — our published articles, as Markdown. Source of truth for [cybervetter.com/insights](https://cybervetter.com/insights).
+
 ## Repositories here
 
 Public repositories in this organisation are published for transparency and reference. They are maintained by CYBERVETTER only — external issues, pull requests and comments are not accepted. See each repository's `CONTRIBUTING.md`.
